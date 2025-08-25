@@ -36,8 +36,9 @@ This platform allows NGOs to run donation drives, onboard volunteers, publish re
 
 ## 🖼️ Screenshots  
 
-### Home & Mission Page  
-![Home Screenshot](assets/home.jpg)  
+### Home Page  
+![Home Screenshot](assets/Home%20Page.png)  
+## Mission Page
 
 ### Events & Campaigns  
 ![Events Screenshot](assets/events.jpg)  
