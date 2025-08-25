@@ -37,17 +37,21 @@ This platform allows NGOs to run donation drives, onboard volunteers, publish re
 ## 🖼️ Screenshots  
 
 ### Home Page  
-![Home Screenshot](assets/Home%20Page.png)  
+![Home Screenshot](assets/HomePage.png)  
 ## Mission Page
-
+![Home Screenshot](assets/Services.png)
 ### Events & Campaigns  
-![Events Screenshot](assets/events.jpg)  
-
+![Events Screenshot](assets/eventpage.png)  
 ### Donation Flow  
-![Donation Screenshot](assets/donation.jpg)  
-
+![Donation Screenshot](assets/donationpage.png)  
 ### Annual Reports Section  
-![Reports Screenshot](assets/reports.jpg)  
+![Reports Screenshot](assets/Reportpage.png)  
+## Advisory list Page
+![Advisory Screenshot](assets/Advisorylist.png) 
+### Curriculum Page 
+![Curriculum Screenshot](assets/Curriculumpage.png) 
+## Metrices Page
+![Metrices Screenshot](assets/metricespage.png)
 
 ---
 
