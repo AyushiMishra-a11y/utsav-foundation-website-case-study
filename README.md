@@ -49,7 +49,7 @@ This platform allows NGOs to run donation drives, onboard volunteers, publish re
 ## Advisory list Page
 ![Advisory Screenshot](assets/Advisorylist.png) 
 ### Curriculum Page 
-![Curriculum Screenshot](assets/Curricalumpage.png) 
+![Curriculum Screenshot](assets/Curriculampage.png) 
 ## Metrices Page
 ![Metrices Screenshot](assets/metricespage.png)
 
