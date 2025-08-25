@@ -4,7 +4,9 @@
 A dynamic NGO campaign and donation management website built during my internship.  
 This platform allows NGOs to run donation drives, onboard volunteers, publish reports, and manage campaigns online.  
 
-> *Note:* Source code is proprietary. This repository serves as a *case study* showcasing the architecture, features, screenshots, and my contributions.  
+> *Note:* Source code is proprietary. This repository serves as a *case study* showcasing the architecture, features, screenshots, and my contributions.
+## Live Demo
+[ Check out the live demo here](https://utsavfoundation.org/)
 
 ---
 
