@@ -1,11 +1,13 @@
-
 # 🌐 Utsav Foundation Website — Case Study  
+![Website](https://img.shields.io/badge/Website-Live-brightgreen)
+![Tech Stack](https://img.shields.io/badge/Tech-PHP%2C%20MySQL%2C%20JS-blue)
+![Status](https://img.shields.io/badge/Status-Live-success)
 
 A dynamic NGO campaign and donation management website built during my internship.  
 This platform allows NGOs to run donation drives, onboard volunteers, publish reports, and manage campaigns online.  
 
 > *Note:* Source code is proprietary. This repository serves as a *case study* showcasing the architecture, features, screenshots, and my contributions.
-## Live Demo
+## 🔗 Live Demo
 [ Check out the live demo here](https://utsavfoundation.org/)
 
 ---
